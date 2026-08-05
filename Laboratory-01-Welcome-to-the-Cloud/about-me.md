@@ -1,6 +1,6 @@
 **Name:** Justine G. Narito
 
-**Course:** Bachelor of Science in Information Technology (BSIT)
+**Course & Block:** BSIT 4-B
 
 **University:** University of Eastern Pangasinan (UEP)
 
