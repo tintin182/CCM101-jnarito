@@ -1,69 +1,46 @@
+## Justine G. Narito
 
-- **Name:** Justine G. Narito
-- **Course:** Bachelor of Science in Information Technology (BSIT)
-- **Subject:** CCM101 – Cloud Computing
-- **University:** University of Eastern Pangasinan (UEP)
+**Bachelor of Science in Information Technology (BSIT)**  
+**University of Eastern Pangasinan (UEP)**
 
----
-
-## Welcome
-
-Welcome to my **CCM101 Cloud Computing Portfolio**. This repository serves as a centralized collection of all laboratory activities, hands-on exercises, assignments, and projects completed throughout the Cloud Computing course.
-
-The purpose of this portfolio is to document my learning journey, demonstrate the practical skills I have acquired, and showcase my progress in understanding cloud computing concepts, Linux system administration, Git, GitHub, and other technologies introduced during the semester.
+**Subject:** CCM101 – Cloud Computing  
+**Instructor:** Cledmar N. Badongen
 
 ---
 
-## Repository Structure
+## About
 
-This repository is organized into individual laboratory folders. Each laboratory contains the required documentation, source files, screenshots, and other supporting materials needed to complete the assigned activities.
+This repository serves as my portfolio for **CCM101 – Cloud Computing**. It contains all laboratory activities, hands-on exercises, assignments, and supporting documentation completed throughout the semester.
 
-Example:
+Throughout this course, I will document my progress in cloud computing by completing laboratory activities focused on Linux system administration, Git, GitHub, cloud technologies, and technical documentation. Each laboratory represents a step in developing both my practical skills and understanding of modern computing environments.
 
-```text
-CCM101-jnarito
-│
-├── README.md
-│
-└── Laboratory-01-Welcome-to-the-Cloud
-    ├── README.md
-    ├── about-me.md
-    ├── system-information.md
-    ├── reflection.md
-    └── screenshots
-```
+Beyond this course, I have a strong interest in **UI/UX Design**, **Web Development**, **Mobile Application Development**, and **Basic Computer Networking**. I enjoy designing and developing practical solutions while continuously expanding my technical knowledge through hands-on experience.
 
 ---
 
-## Learning Objectives
+## Achievement
 
-Throughout this course, I aim to:
+### Champion – Code Clash Arena: Coding & Debugging Challenge
 
-- Develop a strong foundation in Cloud Computing concepts.
-- Learn Linux command-line operations and system administration.
-- Apply Git and GitHub for version control and collaboration.
-- Build organized, well-documented technical projects.
-- Gain practical experience through laboratory activities and hands-on exercises.
+**Champion (3rd Year Category)**  
+**University of Eastern Pangasinan – CIT Week 2025**  
+**November 6, 2025**
+
+Earned the championship title after successfully completing a series of programming and debugging challenges that evaluated coding accuracy, logical thinking, and problem-solving under time constraints.
+
+The Certificate of Recognition is included in this repository as supporting documentation.
 
 ---
 
 ## Technologies and Tools
 
-The following technologies and platforms are used throughout this course:
-
-- Linux (Ubuntu)
+- Ubuntu Linux
 - KillerCoda Playground
 - Git
 - GitHub
-- Markdown (.md)
+- Markdown
 - Command Line Interface (CLI)
 
 ---
 
-## Course Portfolio
-
-This repository will continue to grow as additional laboratory activities are completed throughout the semester. Each laboratory will document the objectives, procedures, commands used, reflections, and evidence of successful completion.
-
----
-
-> *"Learning cloud computing is not just about understanding the cloud—it's about building the skills to deploy, manage, and maintain modern computing environments."*
+*"Learning cloud computing is not only about understanding modern technologies but also about developing the practical skills required to build, deploy, and manage reliable computing environments."*
