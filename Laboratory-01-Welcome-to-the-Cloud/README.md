@@ -50,23 +50,45 @@ Upon successful completion of this mission, you should be able to:
 
 | Command | Description |
 |---------|-------------|
+| `sudo adduser jnarito` | Create a new user account |
+| `sudo usermod -aG sudo jnarito` | Add the user to the sudo group |
+| `su - jnarito` | Switch to the new user account |
+| `whoami` | Display the current logged-in user |
 | `pwd` | Display the current working directory |
 | `hostname` | Display the system hostname |
+| `clear` | Clear the terminal screen |
+| `ls` | List files and directories |
+| `ls -l` | Display files and directories in long format |
+| `cd` | Change the current directory |
+| `cd ..` | Move to the parent directory |
+| `cd ~` | Return to the home directory |
+| `mkdir` | Create directories |
+| `touch` | Create files |
+| `nano` | Create and edit Markdown files |
+| `cat` | Display the contents of a file |
+| `tree` | Display the directory structure |
+| `mv` | Move or rename files |
+| `cp` | Copy files or directories |
+| `rm` | Remove files |
+| `rmdir` | Remove empty directories |
 | `lsb_release -d` | Display the Linux distribution |
 | `uname -r` | Display the Linux kernel version |
 | `lscpu` | Display CPU information |
 | `free -h` | Display memory information |
 | `df -h` | Display available disk space |
-| `mkdir` | Create directories |
-| `touch` | Create files |
-| `nano` | Create and edit Markdown files |
-| `tree` | Display the directory structure |
 | `git clone` | Clone a GitHub repository |
-| `git config` | Configure Git username and email |
-| `git add .` | Stage changes |
-| `git status` | Display repository status |
-| `git commit -m` | Commit changes |
+| `git init` | Initialize a Git repository |
+| `git config --global user.name` | Configure the Git username |
+| `git config --global user.email` | Configure the Git email address |
+| `git remote -v` | Display the configured remote repository |
+| `git status` | Display the repository status |
+| `git add .` | Stage all changes |
+| `git commit -m` | Commit staged changes |
 | `git push origin main` | Push commits to GitHub |
+| `git pull origin main` | Pull the latest changes from GitHub |
+| `git log --oneline` | Display the commit history |
+| `git branch` | Display the current Git branch |
+| `git ls-files` | Display tracked files in the repository |
 
 ---
 
