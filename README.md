@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.png" width="180" alt="Justine G. Narito" />
+<img src="https://github.com/tintin182.png" width="180">
 
 # Justine G. Narito
 
