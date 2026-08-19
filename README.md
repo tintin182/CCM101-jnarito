@@ -28,7 +28,50 @@ Beyond this course, I enjoy building practical and user-focused solutions throug
 
 ---
 
-# Achievement
+# 📁 Current Repository Structure
+
+```text
+CCM101-jnarito
+│
+├── README.md
+│
+├── Laboratory-01-Welcome-to-the-Cloud
+│   ├── README.md
+│   ├── about-me.md
+│   ├── system-information.md
+│   ├── reflection.md
+│   └── screenshots
+│
+└── Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint
+    ├── README.md
+    ├── infrastructure-report.md
+    ├── cloud-components.md
+    ├── cloud-provider-comparison.md
+    ├── reflection.md
+    └── screenshots
+        ├── server-information.png
+        ├── network-information.png
+        ├── storage-information.png
+        └── cloud-architecture.png
+
+```
+This repository will contain all my laboratory activities completed throughout the semester.
+
+---
+# ☁️ Laboratory Activities
+
+| Laboratory | Activity | Description | Status | Date |
+| :--------: | -------- | ----------- | :----: |:----: |
+| **Laboratory 01** | Welcome to the Cloud | Linux Fundamentals, GitHub Portfolio, and Markdown Documentation | ✅ Completed | August 5, 2026 |
+| **Laboratory 02** | Build the Cloud Infrastructure Blueprint | Cloud Infrastructure, Server, Networking, Storage, and Cloud Provider Comparison  | ✅ Completed | August 19, 2026 |
+| **Laboratory 03** | Coming Soon | To be announced | ⏳ Pending |
+| **Laboratory 04** | Coming Soon | To be announced | ⏳ Pending |
+| **Laboratory 05** | Coming Soon | To be announced | ⏳ Pending |
+
+---
+
+
+# 🏆 Achievement
 
 ### Champion — Code Clash Arena: Coding & Debugging Challenge
 
