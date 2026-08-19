@@ -82,6 +82,7 @@ The operating system manages the available resources and provides the environmen
 | **Git** | Used for version control and tracking changes |
 | **GitHub** | Used to store and maintain the Cloud Computing Portfolio |
 | **Markdown** | Used to create and organize the technical documentation |
+| **ChatGPT and Claude** | I used both of these AI to help correct grammar, improve the clarity of some sentences, and explain or clarify ideas that I encountered while working on the activity|
 
 ---
 
