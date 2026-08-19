@@ -6,13 +6,13 @@ This document identifies the main infrastructure components found in my Linux en
 
 ## 🖥️ Compute Resources
 
-### Value
+```
 
 **Intel Xeon E312xx (Sandy Bridge, IBRS update)**  
 **CPU:** 1 core  
 **Architecture:** x86_64
+```
 
-### Purpose
 
 Compute resources provide the processing power needed to run commands, applications, and other workloads. In a cloud environment, this processing power can come from virtual machines, virtual CPUs, GPUs, and other computing resources.
 
@@ -28,13 +28,13 @@ In my KillerCoda environment, the system is using an **Intel Xeon E312xx process
 
 ## 💾 Storage Resources
 
-### Value
+```
 
 **Primary Storage:** 19 GB  
 **Main Device:** `/dev/vda1`  
 **Filesystem:** `ext4`  
 **Available:** 13 GB
-
+```
 ### Purpose
 
 Storage resources provide space for keeping the operating system, applications, files, and other data. They allow information to remain available even when it is not currently being processed.
@@ -51,12 +51,12 @@ The KillerCoda environment uses **`/dev/vda1` as its main storage device**, with
 
 ## 🌐 Networking Resources
 
-### Value
+```
 
 **Hostname:** `ubuntu`  
 **IP Address:** `172.30.1.2`  
 **Additional IP:** `172.17.0.1`
-
+```
 ### Purpose
 
 Networking resources allow computers, services, and other systems to communicate with each other. They provide the connection needed to send and receive information.
@@ -73,11 +73,11 @@ The KillerCoda environment identifies itself with the hostname **`ubuntu`** and 
 
 ## 🐧 Operating System
 
-### Value
+```
 
 **Ubuntu 24.04.4 LTS (Noble Numbat)**  
 **Kernel:** `6.8.0-136-generic`
-
+```
 ### Purpose
 
 The operating system manages the computer's resources and provides the environment where commands and applications can run. It gives the user a way to interact with the system and its resources.
