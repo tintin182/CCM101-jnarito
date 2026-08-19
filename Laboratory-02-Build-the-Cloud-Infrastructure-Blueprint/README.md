@@ -113,6 +113,8 @@ The following commands were used during the laboratory to navigate the Linux env
 | `findmnt` | Displays mounted filesystems and their mount points. |
 | `hostname` | Displays the hostname assigned to the Linux system. |
 | `hostname -I` | Displays the IP addresses assigned to the Linux system. |
+| `ip addr` | Displays the network interfaces, IP addresses, subnet information, and interface status. |
+| `ip route` | Displays the server's routing table, including the default gateway used for network traffic. |
 
 ### Git Commands
 
