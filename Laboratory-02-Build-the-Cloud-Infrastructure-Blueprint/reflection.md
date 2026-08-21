@@ -10,5 +10,3 @@ Throughout the laboratory, I improved my skills in Linux system investigation, c
 
 Overall, this laboratory improved my GitHub portfolio by adding organized and documented cloud computing work. More importantly, it gave me practical experience that goes beyond simply knowing cloud computing concepts. I was able to investigate a real Linux environment, document my findings, compare cloud infrastructure services, and create a visual representation of a cloud architecture. This made the laboratory a useful step in building both my technical skills and my portfolio.
 
-
-Note: I use **Chatgpt** to make my grammar correctly and give me the right term!
