@@ -12,6 +12,7 @@
 **University of Eastern Pangasinan (UEP)**
 
 **CCM101 – Cloud Computing**
+
 Instructor: **Cledmar N. Badongen**
 
 </div>
