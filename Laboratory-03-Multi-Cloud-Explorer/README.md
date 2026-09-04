@@ -1,4 +1,5 @@
-## 🎯 Task
+
+# 🎯 Continue your linux investigation
 
 Launch a **KillerCoda Playground**.
 
@@ -31,7 +32,7 @@ The `cat /etc/os-release` command displays information about the Linux operating
 
 ### 📸 Terminal Output
 
-![Operating System Information](screenshots/KillerCoda-terminal-1.png)
+![Operating System Information](screenshots/Killercoda-terminal-1.png)
 
 ---
 
@@ -54,7 +55,7 @@ Using `grep` filters the output so that only the required CPU information is dis
 
 ### 📸 Terminal Output
 
-![CPU Information](screenshots/cpu-information.png)
+![CPU Information](screenshots/Killercoda-terminal-1.1.png)
 
 ---
 
@@ -74,7 +75,7 @@ The `-h` option displays the values in a human-readable format such as MB or GB.
 
 ### 📸 Terminal Output
 
-![Memory Information](screenshots/memory-information.png)
+![Memory Information](screenshots/Killercoda-terminal-1.2.png)
 
 ---
 
@@ -94,7 +95,7 @@ The `-h` option displays the storage values in a human-readable format.
 
 ### 📸 Terminal Output
 
-![Disk Space Information](screenshots/disk-space-information.png)
+![Disk Space Information](screenshots/Killercoda-terminal-1.3.png)
 
 ---
 
