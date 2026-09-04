@@ -31,7 +31,7 @@ The `cat /etc/os-release` command displays information about the Linux operating
 
 ### 📸 Terminal Output
 
-![Operating System Information](screenshots/os-information.png)
+![Operating System Information](screenshots/KillerCoda-terminal-1.png)
 
 ---
 
