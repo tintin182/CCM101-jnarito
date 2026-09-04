@@ -97,6 +97,23 @@ AWS is the recommended cloud platform for the global e-commerce company because 
 
 ---
 
+---
+
+## 📊 Multi-Cloud Decision Matrix
+
+The following decision matrix recommends a suitable cloud provider based on different business requirements.
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | **Amazon Web Services (AWS)** | AWS provides scalable services and startup-focused resources that can support a company with a limited budget and growing workloads. |
+| Enterprise Organization | **Amazon Web Services (AWS)** | AWS offers a broad range of enterprise services for scalable, highly available, and secure infrastructure. |
+| Microsoft Environment | **Microsoft Azure** | Azure is well suited for organizations using Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory. |
+| AI / Machine Learning | **Google Cloud Platform (GCP)** | GCP provides strong AI and machine learning capabilities through services such as Vertex AI and scalable computing resources. |
+| Kubernetes Deployment | **Google Cloud Platform (GCP)** | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service for deploying and managing containerized applications. |
+| Global Web Application | **Amazon Web Services (AWS)** | AWS provides globally distributed infrastructure and services that support high availability, scalability, and reliable web applications. |
+
+---
+
 ## 📚 References
 
 ### Amazon Web Services
