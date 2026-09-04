@@ -1,6 +1,5 @@
 
 # 🎯 Continue your linux investigation
-
 Launch a **KillerCoda Playground**.
 
 Using Linux commands, identify the following information about the Linux server:
