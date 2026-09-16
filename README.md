@@ -48,7 +48,7 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 |   **01**   | **Welcome to the Cloud**                     | Linux Fundamentals, GitHub Portfolio, and Markdown Documentation                   | ✅ Completed |   August 5, 2026  |
 |   **02**   | **Build the Cloud Infrastructure Blueprint** | Cloud Infrastructure, Server, Networking, Storage, and Cloud Provider Comparison   | ✅ Completed |  August 19, 2026  |
 |   **03**   | **Become a Multi-Cloud Explorer**            | AWS, Microsoft Azure, and Google Cloud Platform Exploration and Service Comparison | ✅ Completed | September 4, 2026 |
-|   **04**   | **The Cloud-Native Engineer**                | Cloud-Native Engineering, Docker Containers, Virtualization, and Containerized Web Server Deployment                                                                    |  ✅ Completed  | September 16, 2026 |
+|   **04**   | **The Cloud-Native Engineer**                | VM vs. Container, Docker, and Containerized Web Server Deployment                  | ✅ Completed | September 16, 2026|
 |   **05**   | **Coming Soon**                              | To be announced                                                                    |  ⏳ Pending  |         —         |
 
 ### Laboratory Links
