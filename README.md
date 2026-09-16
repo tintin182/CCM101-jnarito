@@ -210,6 +210,9 @@ Through **CCM101 – Cloud Computing**, I aim to:
 * Learn how different cloud platforms provide computing services
 * Improve my understanding of networking and storage
 * Gain more hands-on experience with cloud environments
+* Understand the differences between Virtual Machines and containers
+* Gain hands-on experience with Docker and containerized applications
+* Learn how to deploy and manage a containerized web server
 * Become more comfortable working with technical documentation
 * Build a strong foundation for future cloud-related projects
 
