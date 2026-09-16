@@ -48,7 +48,7 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 |   **01**   | **Welcome to the Cloud**                     | Linux Fundamentals, GitHub Portfolio, and Markdown Documentation                   | ✅ Completed |   August 5, 2026  |
 |   **02**   | **Build the Cloud Infrastructure Blueprint** | Cloud Infrastructure, Server, Networking, Storage, and Cloud Provider Comparison   | ✅ Completed |  August 19, 2026  |
 |   **03**   | **Become a Multi-Cloud Explorer**            | AWS, Microsoft Azure, and Google Cloud Platform Exploration and Service Comparison | ✅ Completed | September 4, 2026 |
-|   **04**   | **Coming Soon**                              | To be announced                                                                    |  ⏳ Pending  |         —         |
+|   **04**   | **The Cloud-Native Engineer**                | Cloud-Native Engineering, Docker Containers, Virtualization, and Containerized Web Server Deployment                                                                    |  ✅ Completed  | September 16, 2026 |
 |   **05**   | **Coming Soon**                              | To be announced                                                                    |  ⏳ Pending  |         —         |
 
 ### Laboratory Links
@@ -56,7 +56,7 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 * 📘 **[Laboratory 01 – Welcome to the Cloud](./Laboratory-01-Welcome-to-the-Cloud/)**
 * 📘 **[Laboratory 02 – Build the Cloud Infrastructure Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/)**
 * 📘 **[Laboratory 03 – Become a Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer/)**
-* ⏳ **Laboratory 04 – Coming Soon**
+* 📘 **[Laboratory 04 – The Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer/)**
 * ⏳ **Laboratory 05 – Coming Soon**
 
 ---
@@ -88,19 +88,35 @@ CCM101-jnarito/
 │       └── cloud-architecture.png
 │
 └── Laboratory-03-Multi-Cloud-Explorer/
-    ├── README.md
-    ├── aws-research.md
-    ├── azure-research.md
-    ├── gcp-research.md
-    ├── cloud-platform-comparison.md
-    ├── client-recommendations.md
-    ├── reflection.md
-    └── screenshots/
-        ├── aws-homepage.png
-        ├── azure-homepage.png
-        ├── gcp-homepage.png
-        ├── killercoda-terminal.png
-        └── github-repository.png
+│   ├── README.md
+│   ├── aws-research.md
+│   ├── azure-research.md
+│   ├── gcp-research.md
+│   ├── cloud-platform-comparison.md
+│   ├── client-recommendations.md
+│   ├── reflection.md
+│   └── screenshots/
+│       ├── aws-homepage.png
+│       ├── azure-homepage.png
+│       ├── gcp-homepage.png
+│       ├── killercoda-terminal.png
+│       └── github-repository.png
+│
+└── Laboratory-04-Cloud-Native-Engineer/
+    ├── README.md 
+    ├── Laboratory-01-Welcome-to-the-Cloud/ 
+    ├── Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/ 
+    ├── Laboratory-03-Multi-Cloud-Explorer/ 
+    └── Laboratory-04-Cloud-Native-Engineer/ 
+         ├── README.md 
+         ├── virtualization-vs-containers.md 
+         ├── docker-deployment.md 
+         ├── reflection.md 
+         └── screenshots/ 
+             ├── docker-version.png 
+             ├── nginx-running.png 
+             └── container-lifecycle.png
+
 ```
 
 > The repository will continue to grow as additional laboratory activities and course requirements are completed.
