@@ -103,19 +103,14 @@ CCM101-jnarito/
 │       └── github-repository.png
 │
 └── Laboratory-04-Cloud-Native-Engineer/
-    ├── README.md 
-    ├── Laboratory-01-Welcome-to-the-Cloud/ 
-    ├── Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/ 
-    ├── Laboratory-03-Multi-Cloud-Explorer/ 
-    └── Laboratory-04-Cloud-Native-Engineer/ 
-         ├── README.md 
-         ├── virtualization-vs-containers.md 
-         ├── docker-deployment.md 
-         ├── reflection.md 
-         └── screenshots/ 
-             ├── docker-version.png 
-             ├── nginx-running.png 
-             └── container-lifecycle.png
+     ├── README.md
+     ├── virtualization-vs-containers.md 
+     ├── docker-deployment.md 
+     ├── reflection.md 
+     └── screenshots/ 
+         ├── docker-version.png 
+         ├── nginx-running.png 
+         └── container-lifecycle.png
 
 ```
 
