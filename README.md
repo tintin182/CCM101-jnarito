@@ -146,12 +146,22 @@ Through the laboratory activities, I have worked with different tools and techno
 * ☁️ Microsoft Azure
 * ☁️ Google Cloud Platform (GCP)
 
+### Containerization
+* 🐳 Docker
+* 📦 Docker Containers
+* 🐋 Docker Images
+* 🌐 Containerized Web Server (Nginx)
+* 🔌 Port Mapping
+* ⚙️ Docker CLI
+* 🔄 Container Lifecycle Management
+* 🖥️ Virtual Machines vs. Containers
+
 ---
 
 ## 🛠️ Technical Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,md,aws,azure,gcp" alt="Technical skills">
+<img src="https://skillicons.dev/icons?i=linux,git,github,md,docker,aws,azure,gcp" alt="Technical skills">
 </p>
 
 ---
