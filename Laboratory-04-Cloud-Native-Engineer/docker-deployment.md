@@ -44,4 +44,4 @@ Verifies that the removed Nginx container no longer appears in the list of conta
 
 The complete container lifecycle is documented in the following screenshot:
 
-`![Container Lifecycle](screenshots/container-lifecycle.png)`
+![Container Lifecycle](screenshots/container-lifecycle.png)
