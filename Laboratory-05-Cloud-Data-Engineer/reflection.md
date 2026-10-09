@@ -1,0 +1,9 @@
+# 📝 Mission Reflection
+
+During this laboratory activity, I learned how object storage works and why it is useful in cloud computing. Object storage is better suited for storing millions of photos because it can handle large amounts of files and expand as storage needs increase. Unlike traditional hard drives, it is designed to manage unstructured data such as photos, videos, and backups. This makes it useful for companies that need to store and access many files.
+
+Using Docker also made deploying the MinIO server easier because I only needed to run the appropriate command and configure the ports and environment variables. It saved time because I did not have to set up everything manually. A bucket is a container used to organize and store files in object storage. In this activity, I used MinIO to create a bucket named `client-photos`, where sample files can be stored and managed through the web console.
+
+I also learned that large companies protect their data by keeping multiple copies across different drives or servers. They may also use backups and replication across different locations to recover files if a physical server crashes. This helps reduce the risk of losing important information and keeps their services available.
+
+Lastly, my confidence in using the Linux command line is gradually improving. I am becoming more comfortable running Docker commands, checking containers, and managing my deployment. At first, some commands were confusing, but practicing them helped me understand their purpose. Although I still need more experience, this activity helped me understand cloud storage better and gave me more confidence in using Linux and cloud tools. Overall, I gained practical knowledge that I can apply to future cloud computing activities and other IT projects.
