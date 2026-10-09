@@ -49,7 +49,7 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 |   **02**   | **Build the Cloud Infrastructure Blueprint** | Cloud Infrastructure, Server, Networking, Storage, and Cloud Provider Comparison   | ✅ Completed |  August 19, 2026  |
 |   **03**   | **Become a Multi-Cloud Explorer**            | AWS, Microsoft Azure, and Google Cloud Platform Exploration and Service Comparison | ✅ Completed | September 4, 2026 |
 |   **04**   | **The Cloud-Native Engineer**                | VM vs. Container, Docker, and Containerized Web Server Deployment                  | ✅ Completed | September 16, 2026|
-|   **05**   | **Coming Soon**                              | To be announced                                                                    |  ⏳ Pending  |         —         |
+|   **05**   | ** The Cloud Data Engineer**                 | Exploring, deploying, and creating bucket using minIO                              | ✅ Completed | October 7, 2026   |
 
 ### Laboratory Links
 
@@ -57,7 +57,7 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 * 📘 **[Laboratory 02 – Build the Cloud Infrastructure Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/)**
 * 📘 **[Laboratory 03 – Become a Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer/)**
 * 📘 **[Laboratory 04 – The Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer/)**
-* ⏳ **Laboratory 05 – Coming Soon**
+* ⏳ **[Laboratory 05 – The Cloud Data Engineer](./Laboratory-05-The-Cloud-Data-Engineer/)**
 
 ---
 
@@ -87,7 +87,7 @@ CCM101-jnarito/
 │       ├── storage-information.png
 │       └── cloud-architecture.png
 │
-└── Laboratory-03-Multi-Cloud-Explorer/
+├── Laboratory-03-Multi-Cloud-Explorer/
 │   ├── README.md
 │   ├── aws-research.md
 │   ├── azure-research.md
@@ -102,16 +102,27 @@ CCM101-jnarito/
 │       ├── killercoda-terminal.png
 │       └── github-repository.png
 │
-└── Laboratory-04-Cloud-Native-Engineer/
-     ├── README.md
-     ├── virtualization-vs-containers.md 
-     ├── docker-deployment.md 
-     ├── reflection.md 
-     └── screenshots/ 
-         ├── docker-version.png 
-         ├── nginx-running.png 
-         └── container-lifecycle.png
-
+├── Laboratory-04-Cloud-Native-Engineer/
+│     ├── README.md
+│     ├── virtualization-vs-containers.md 
+│     ├── docker-deployment.md 
+│     ├── reflection.md 
+│     └── screenshots/ 
+│         ├── docker-version.png 
+│         ├── nginx-running.png 
+│         └── container-lifecycle.png
+│
+│
+│
+│
+├── Laboratory-05-Cloud-Data-Engineer/
+      ├── README.md
+      ├── storage-types-research.md
+      ├── minio-deployment.md
+      ├── reflection.md
+      └── screenshots/
+        ├── minio-deployed.png
+        └── minio-bucket-upload.png
 ```
 
 > The repository will continue to grow as additional laboratory activities and course requirements are completed.
