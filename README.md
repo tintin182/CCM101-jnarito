@@ -58,7 +58,7 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 * 📘 **[Laboratory 03 – Become a Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer/)**
 * 📘 **[Laboratory 04 – The Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer/)**
 * 📘 **[Laboratory 05 – The Cloud Data Engineer](./Laboratory-05-Cloud-Data-Engineer/)**
-
+* 📘 **[Laboratory 06 – The Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer/)**
 
 ---
 
