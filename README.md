@@ -50,7 +50,8 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 |   **03**   | **Become a Multi-Cloud Explorer**            | AWS, Microsoft Azure, and Google Cloud Platform Exploration and Service Comparison | ✅ Completed | September 4, 2026 |
 |   **04**   | **The Cloud-Native Engineer**                | VM vs. Container, Docker, and Containerized Web Server Deployment                  | ✅ Completed | September 16, 2026|
 |   **05**   | ** The Cloud Data Engineer**                 | Exploring, deploying, and creating bucket using minIO                              | ✅ Completed | October 7, 2026   |
-
+|   **06**   | ** The Deployment Engineerr**                | Docker Compose, Nextcloud, MariaDB, and Infrastructure as Code (IaC)               | ✅ Completed | October 12, 2026   |
+|   **07**   | **Coming Soon** | To Be Announced | ⏳ Coming Soon | — |
 ### Laboratory Links
 
 * 📘 **[Laboratory 01 – Welcome to the Cloud](./Laboratory-01-Welcome-to-the-Cloud/)**
@@ -113,17 +114,22 @@ CCM101-jnarito/
 │         ├── nginx-running.png 
 │         └── container-lifecycle.png
 │
-│
-│
-│
 ├── Laboratory-05-Cloud-Data-Engineer/
+│     ├── README.md
+│     ├── storage-types-research.md
+│     ├── minio-deployment.md
+│     ├── reflection.md
+│     └── screenshots/
+│       ├── minio-deployed.png
+│       └── minio-bucket-upload.png
+│
+├── Laboratory-06-Cloud-Deployment-Engineer/
       ├── README.md
-      ├── storage-types-research.md
-      ├── minio-deployment.md
-      ├── reflection.md
+      ├── multi-tier-architecture.md
+      ├── docker-compose-guide.md
       └── screenshots/
-        ├── minio-deployed.png
-        └── minio-bucket-upload.png
+        ├── compose-deployment.png
+       
 ```
 
 > The repository will continue to grow as additional laboratory activities and course requirements are completed.
@@ -132,7 +138,7 @@ CCM101-jnarito/
 
 ## 🧪 What I Have Worked With
 
-Through the laboratory activities, I have worked with different tools and technologies related to cloud computing and system administration.
+Through the laboratory activities, I have worked with different tools and technologies related to cloud computing, Linux, containerization, and system administration.
 
 ### Operating System & Cloud Practice
 
@@ -151,6 +157,7 @@ Through the laboratory activities, I have worked with different tools and techno
 * 📝 Markdown
 * 💻 Command Line Interface (CLI)
 * 📚 Technical documentation
+* 🏗️ Infrastructure as Code (IaC)
 
 ### Cloud Platforms
 
@@ -158,7 +165,8 @@ Through the laboratory activities, I have worked with different tools and techno
 * ☁️ Microsoft Azure
 * ☁️ Google Cloud Platform (GCP)
 
-### Containerization
+### Containerization & Deployment
+
 * 🐳 Docker
 * 📦 Docker Containers
 * 🐋 Docker Images
@@ -167,6 +175,15 @@ Through the laboratory activities, I have worked with different tools and techno
 * ⚙️ Docker CLI
 * 🔄 Container Lifecycle Management
 * 🖥️ Virtual Machines vs. Containers
+* 🧩 Docker Compose
+* 🗂️ YAML Configuration Files
+* ☁️ Multi-Tier Application Architecture
+* 🌐 Nextcloud Deployment
+* 🗄️ MariaDB Database
+* 🔗 Application and Database Connectivity
+* 🔐 Environment Variables
+* 🚀 Multi-Container Deployment and Teardown
+
 
 ---
 
