@@ -6,3 +6,14 @@
 ```
 
 Application logs help identify errors and show which requests failed. They help cloud operations engineers troubleshoot problems and understand what happened in an application.
+
+
+## 📊 Real-Time Container Metrics
+
+- **Container Name:** `client-website`
+- **Memory Usage:** `2.73MiB`
+- **CPU Usage:** `0.00%`
+
+### 📸 Screenshot Evidence
+
+![Docker Container Metrics](screenshots/container-metrics.png)
