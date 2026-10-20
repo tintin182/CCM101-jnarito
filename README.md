@@ -52,6 +52,7 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 | **05** | **The Cloud Data Engineer** | Exploring, deploying, and creating bucket using MinIO | ✅ Completed | October 7, 2026 |
 | **06** | **The Cloud Deployment Engineer** | Docker Compose, Nextcloud, MariaDB, and Infrastructure as Code (IaC) | ✅ Completed | October 12, 2026 |
 | **07** | **The Cloud Operations Engineer** | Linux resource monitoring, Nginx deployment, HTTP requests, application logs, and Docker metrics | ✅ Completed | October 12, 2026 |
+| **08** | **The Cloud Security Engineer** | Security best practices, attack surface, Principle of Least Privilege (PoLP), UFW firewall configuration, default deny policy, and port management | ✅ Completed | October 20, 2026 |
 
 ### Laboratory Links
 
@@ -62,6 +63,7 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 - 📘 **[Laboratory 05 – The Cloud Data Engineer](./Laboratory-05-Cloud-Data-Engineer/)**
 - 📘 **[Laboratory 06 – The Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer/)**
 - 📘 **[Laboratory 07 – The Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer/)**
+- 📘 **[Laboratory 08 – The Cloud Security Engineer](./Laboratory-08-Cloud-Security-Engineer/)**
 
 ---
 
@@ -132,13 +134,19 @@ CCM101-jnarito/
 │   └── screenshots/
 │       └── compose-deployment.png
 │
-└── Laboratory-07-Cloud-Operations-Engineer/
+├── Laboratory-07-Cloud-Operations-Engineer/
+│   ├── README.md
+│   ├── system-baseline-report.md
+│   ├── container-observability.md
+│   ├── reflection.md
+│   └── screenshots/
+│
+└── Laboratory-08-Cloud-Security-Engineer/
     ├── README.md
-    ├── system-baseline-report.md
-    ├── container-observability.md
+    ├── security-audit-report.md
+    ├── firewall-configuration.md
     ├── reflection.md
     └── screenshots/
-
 ```
 
 > The repository will continue to grow as additional laboratory activities and course requirements are completed.
@@ -197,6 +205,17 @@ Through the laboratory activities, I have worked with different tools and techno
 - 🔐 Environment Variables
 - 🚀 Multi-Container Deployment and Teardown
 
+### 🔐 Cloud Security & Firewall Management
+
+- 🛡️ Host-Based Firewall (UFW)
+- 🔑 Principle of Least Privilege (PoLP)
+- 🎯 Attack Surface Awareness
+- 🚫 Default Deny Policy
+- 🔌 SSH Access and Port 22
+- 🌐 TCP Port 8080 Management
+- 🔍 Firewall Status and Rule Verification
+- 🔒 Controlling Incoming and Outgoing Traffic
+
 ---
 
 ## 🛠️ Technical Stack
@@ -241,6 +260,12 @@ So far, my learning has covered:
 - Deploying an Nginx container and testing HTTP requests
 - Finding a 404 error in application logs
 - Monitoring container CPU and memory usage
+- Understanding the Principle of Least Privilege and attack surface
+- Configuring UFW to protect a Linux server
+- Applying a default deny policy to incoming connections
+- Allowing SSH and specific application ports through firewall rules
+- Checking firewall status and verifying allowed ports
+- Understanding why unnecessary open ports can create security risks
 
 As new laboratories are introduced, this section of the repository will continue to grow alongside my skills and experience.
 
