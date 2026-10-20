@@ -1,5 +1,3 @@
-# 🛡️ Laboratory 08 — Cloud Security Engineer
-
 ## 🎯 Mission Overview
 
 Congratulations! Your proactive approach to system monitoring has earned you a spot on the elite  
