@@ -4,9 +4,7 @@
 
 # Justine G. Narito
 
-<p>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3200&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Cloud+Computing+Portfolio;Bachelor+of+Science+in+Information+Technology;UI%2FUX+Designer;Web+Developer;Mobile+Developer;Learning+Cloud+Technologies" alt="Typing introduction">
-</p>
 
 **Bachelor of Science in Information Technology (BSIT)**  
 **University of Eastern Pangasinan (UEP)**
@@ -23,11 +21,9 @@ Instructor: **Cledmar N. Badongen**
 
 Welcome to my **CCM101 – Cloud Computing** portfolio.
 
-This repository contains my laboratory activities, projects, documentation, and reflections throughout the course. It covers topics including **Linux, cloud infrastructure, networking, storage, Git, GitHub, and multi-cloud platforms**.
+This repository contains my laboratory activities, projects, documentation, and reflections throughout the course. It covers topics including **Linux, cloud infrastructure, networking, storage, Git, GitHub, multi-cloud platforms, containerization, cloud security, and automation**.
 
 Each laboratory represents a part of my learning journey as I develop practical skills and gain a better understanding of how cloud technologies are used in modern computing environments.
-
----
 
 ## 📖 About This Portfolio
 
@@ -46,28 +42,32 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 | Laboratory | Activity | Description | Status | Date |
 | :---: | :--- | :--- | :---: | :---: |
 | **01** | **Welcome to the Cloud** | Linux Fundamentals, GitHub Portfolio, and Markdown Documentation | ✅ Completed | August 5, 2026 |
-| **02** | **Build the Cloud Infrastructure Blueprint** | Cloud Infrastructure, Server, Networking, Storage, and Cloud Provider Comparison | ✅ Completed | August 19, 2026 |
+| **02** | **Build the Cloud Infrastructure Blueprint** | Cloud Infrastructure, Servers, Networking, Storage, and Cloud Provider Comparison | ✅ Completed | August 19, 2026 |
 | **03** | **Become a Multi-Cloud Explorer** | AWS, Microsoft Azure, and Google Cloud Platform Exploration and Service Comparison | ✅ Completed | September 4, 2026 |
-| **04** | **The Cloud-Native Engineer** | VM vs. Container, Docker, and Containerized Web Server Deployment | ✅ Completed | September 16, 2026 |
-| **05** | **The Cloud Data Engineer** | Exploring, deploying, and creating bucket using MinIO | ✅ Completed | October 7, 2026 |
+| **04** | **The Cloud-Native Engineer** | Virtual Machines vs. Containers, Docker, and Containerized Web Server Deployment | ✅ Completed | September 16, 2026 |
+| **05** | **The Cloud Data Engineer** | Storage Types, MinIO Deployment, and Object Storage | ✅ Completed | October 7, 2026 |
 | **06** | **The Cloud Deployment Engineer** | Docker Compose, Nextcloud, MariaDB, and Infrastructure as Code (IaC) | ✅ Completed | October 12, 2026 |
-| **07** | **The Cloud Operations Engineer** | Linux resource monitoring, Nginx deployment, HTTP requests, application logs, and Docker metrics | ✅ Completed | October 12, 2026 |
-| **08** | **The Cloud Security Engineer** | Security best practices, attack surface, Principle of Least Privilege (PoLP), UFW firewall configuration, default deny policy, and port management | ✅ Completed | October 20, 2026 |
+| **07** | **The Cloud Operations Engineer** | Linux Resource Monitoring, Nginx Deployment, HTTP Requests, Application Logs, and Docker Metrics | ✅ Completed | October 12, 2026 |
+| **08** | **The Cloud Security Engineer** | Security Best Practices, Principle of Least Privilege, UFW Firewall Configuration, and Port Management | ✅ Completed | October 20, 2026 |
+| **09** | **The Cloud Automation Engineer** | Bash Scripting, Automated Backups, File Permissions, and Cron Scheduling | ✅ Completed | October 22, 2026 |
 
-### Laboratory Links
+### 📘 Laboratory Links
 
-- 📘 **[Laboratory 01 – Welcome to the Cloud](./Laboratory-01-Welcome-to-the-Cloud/)**
-- 📘 **[Laboratory 02 – Build the Cloud Infrastructure Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/)**
-- 📘 **[Laboratory 03 – Become a Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer/)**
-- 📘 **[Laboratory 04 – The Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer/)**
-- 📘 **[Laboratory 05 – The Cloud Data Engineer](./Laboratory-05-Cloud-Data-Engineer/)**
-- 📘 **[Laboratory 06 – The Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer/)**
-- 📘 **[Laboratory 07 – The Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer/)**
-- 📘 **[Laboratory 08 – The Cloud Security Engineer](./Laboratory-08-Cloud-Security-Engineer/)**
+- 📘 [Laboratory 01 – Welcome to the Cloud](./Laboratory-01-Welcome-to-the-Cloud/)
+- 📘 [Laboratory 02 – Build the Cloud Infrastructure Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/)
+- 📘 [Laboratory 03 – Become a Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer/)
+- 📘 [Laboratory 04 – The Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer/)
+- 📘 [Laboratory 05 – The Cloud Data Engineer](./Laboratory-05-Cloud-Data-Engineer/)
+- 📘 [Laboratory 06 – The Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer/)
+- 📘 [Laboratory 07 – The Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer/)
+- 📘 [Laboratory 08 – The Cloud Security Engineer](./Laboratory-08-Cloud-Security-Engineer/)
+- 📘 [Laboratory 09 – The Cloud Automation Engineer](./Laboratory-09-Cloud-Automation-Engineer/)
 
 ---
 
 ## 📁 Repository Structure
+
+The following tree includes the new Laboratory 09 directory and its documentation and screenshot files.
 
 ```text
 CCM101-jnarito/
@@ -141,12 +141,21 @@ CCM101-jnarito/
 │   ├── reflection.md
 │   └── screenshots/
 │
-└── Laboratory-08-Cloud-Security-Engineer/
+├── Laboratory-08-Cloud-Security-Engineer/
+│   ├── README.md
+│   ├── security-audit-report.md
+│   ├── firewall-configuration.md
+│   ├── reflection.md
+│   └── screenshots/
+│
+└── Laboratory-09-Cloud-Automation-Engineer/
     ├── README.md
-    ├── security-audit-report.md
-    ├── firewall-configuration.md
+    ├── automation-research.md
+    ├── backup-script-guide.md
     ├── reflection.md
     └── screenshots/
+        ├── script-execution.png
+        └── cron-schedule.png
 ```
 
 > The repository will continue to grow as additional laboratory activities and course requirements are completed.
@@ -155,47 +164,48 @@ CCM101-jnarito/
 
 ## 🧪 What I Have Worked With
 
-Through the laboratory activities, I have worked with different tools and technologies related to cloud computing, Linux, containerization, and system administration.
+Through the laboratory activities, I have worked with different tools and technologies related to cloud computing, Linux, containerization, system administration, security, and automation.
 
-### Operating System & Cloud Practice
+### 🖥️ Operating System & Cloud Practice
 
 - 🐧 Ubuntu Linux
-- ☁️ Cloud computing concepts
-- 🖥️ Linux server environments
-- 🌐 Networking fundamentals
-- 💾 Storage concepts
-- ⚙️ System information and resource monitoring
+- ☁️ Cloud Computing Fundamentals
+- 🖥️ Linux Server Environments
+- 🌐 Networking Fundamentals
+- 💾 Storage Concepts
+- ⚙️ System Information and Resource Monitoring
 - 🧪 KillerCoda Playground
-- 📊 Linux RAM, disk, and CPU monitoring
+- 📊 Linux RAM, Disk, and CPU Monitoring
 
-### Development & Documentation
+### 🛠️ Development & Documentation
 
 - 🔧 Git
 - 🐙 GitHub
 - 📝 Markdown
 - 💻 Command Line Interface (CLI)
-- 📚 Technical documentation
+- 📚 Technical Documentation
 - 🏗️ Infrastructure as Code (IaC)
+- 🐚 Bash Scripting
+- 📦 File Compression and Backup Management
+- 🔐 Linux File Permissions
+- ⏰ Cron Jobs and Task Scheduling
 
-### Cloud Platforms
+### ☁️ Cloud Platforms
 
 - ☁️ Amazon Web Services (AWS)
 - ☁️ Microsoft Azure
 - ☁️ Google Cloud Platform (GCP)
 
-### Containerization & Deployment
+### 🐳 Containerization & Deployment
 
 - 🐳 Docker
 - 📦 Docker Containers
 - 🐋 Docker Images
-- 🌐 Containerized Web Server (Nginx)
+- 🌐 Nginx Web Server Deployment
 - 🔌 Port Mapping
 - ⚙️ Docker CLI
 - 🔄 Container Lifecycle Management
 - 🖥️ Virtual Machines vs. Containers
-- 📈 Docker container metrics with `docker stats`
-- 🧾 Application log review with `docker logs`
-- 🌐 HTTP request testing with `curl`
 - 🧩 Docker Compose
 - 🗂️ YAML Configuration Files
 - ☁️ Multi-Tier Application Architecture
@@ -204,6 +214,17 @@ Through the laboratory activities, I have worked with different tools and techno
 - 🔗 Application and Database Connectivity
 - 🔐 Environment Variables
 - 🚀 Multi-Container Deployment and Teardown
+
+### 📈 Cloud Operations & Monitoring
+
+- 📊 Linux Resource Monitoring
+- 🧠 CPU and Memory Usage
+- 💾 Disk Space Monitoring
+- 🧾 Application Log Review with `docker logs`
+- 🌐 HTTP Request Testing with `curl`
+- 📉 Docker Container Metrics with `docker stats`
+- 🔍 Basic Troubleshooting
+- 🛠️ Automated Backup Verification
 
 ### 🔐 Cloud Security & Firewall Management
 
@@ -221,7 +242,7 @@ Through the laboratory activities, I have worked with different tools and techno
 ## 🛠️ Technical Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,github,md,docker,aws,azure,gcp" alt="Technical skills">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,md,docker,aws,azure,gcp" alt="Technical skills">
 </p>
 
 ---
@@ -256,18 +277,25 @@ So far, my learning has covered:
 - Comparing major cloud service providers
 - Exploring AWS, Azure, and Google Cloud
 - Understanding the basics of multi-cloud environments
-- Checking Linux server RAM, disk space, and running processes
 - Deploying an Nginx container and testing HTTP requests
-- Finding a 404 error in application logs
-- Monitoring container CPU and memory usage
+- Comparing virtual machines and containers
+- Deploying applications using Docker Compose
+- Understanding multi-tier application architecture
+- Connecting Nextcloud with a MariaDB database
+- Checking Linux server RAM, disk space, and running processes
+- Reviewing application logs and monitoring container performance
 - Understanding the Principle of Least Privilege and attack surface
 - Configuring UFW to protect a Linux server
 - Applying a default deny policy to incoming connections
 - Allowing SSH and specific application ports through firewall rules
-- Checking firewall status and verifying allowed ports
-- Understanding why unnecessary open ports can create security risks
+- Writing Bash scripts to automate repetitive tasks
+- Using variables and timestamps in backup scripts
+- Compressing application data into `.tar.gz` backup files
+- Applying executable permissions with `chmod`
+- Scheduling automated tasks with cron
+- Verifying backup output and reviewing scheduled jobs
 
-As new laboratories are introduced, this section of the repository will continue to grow alongside my skills and experience.
+These activities have helped me understand how cloud infrastructure, deployment, operations, security, and automation work together in practical environments.
 
 ---
 
@@ -280,11 +308,14 @@ Through **CCM101 – Cloud Computing**, I aim to:
 - Learn how different cloud platforms provide computing services
 - Improve my understanding of networking and storage
 - Gain more hands-on experience with cloud environments
-- Understand the differences between Virtual Machines and containers
+- Understand the differences between virtual machines and containers
 - Gain hands-on experience with Docker and containerized applications
-- Learn how to deploy and manage a containerized web server
+- Learn how to deploy and manage containerized web servers
 - Practice checking server resources and container performance
 - Learn how to use application logs to troubleshoot website errors
+- Understand cloud security and firewall configuration
+- Practice automating repetitive tasks using Bash scripts
+- Learn how to create and schedule automated backups
 - Become more comfortable working with technical documentation
 - Build a strong foundation for future cloud-related projects
 
@@ -307,17 +338,17 @@ Through **CCM101 – Cloud Computing**, I aim to:
 
 This repository is primarily maintained for **academic and educational purposes** as part of my Cloud Computing course.
 
-The documentation and activities reflect my own learning progress, experiences, and outputs throughout the semester.
+The documentation and activities reflect my learning progress, experiences, and outputs throughout the semester. Screenshots and technical documentation are included where applicable to demonstrate the work completed for each laboratory.
 
 ---
 
 ## 🚀 What's Next?
 
-The portfolio is still a work in progress.
+The portfolio continues to grow as I explore more cloud computing concepts and complete additional laboratory activities.
 
-As the semester continues, I will add more laboratory activities, technical exercises, documentation, screenshots, and reflections to this repository.
+My next goal is to continue improving my Linux, Docker, cloud infrastructure, security, and automation skills through hands-on practice and future projects.
 
-**More laboratories and cloud computing projects will be added soon.**
+**Keep learning, keep building, and keep exploring cloud technologies.**
 
 ---
 
@@ -325,9 +356,7 @@ As the semester continues, I will add more laboratory activities, technical exer
 
 ### ☁️ Keep Learning. Keep Building. Keep Exploring.
 
-*"Learning cloud computing is not only about understanding technology, but also about learning how to build, manage, and improve computing environments."*
-
-<br>
+*Learning cloud computing is not only about understanding technology, but also about learning how to build, manage, and improve computing environments.*
 
 **© 2026 Justine G. Narito**
 
