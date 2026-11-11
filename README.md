@@ -148,14 +148,22 @@ CCM101-jnarito/
 │   ├── reflection.md
 │   └── screenshots/
 │
-└── Laboratory-09-Cloud-Automation-Engineer/
+├── Laboratory-09-Cloud-Automation-Engineer/
+│    ├── README.md
+│    ├── automation-research.md
+│    ├── backup-script-guide.md
+│    ├── reflection.md
+│    └── screenshots/
+│        ├── script-execution.png
+│        └── cron-schedule.png
+│
+├── Laboratory-10-Enterprise-Cloud-Architect/
     ├── README.md
-    ├── automation-research.md
-    ├── backup-script-guide.md
-    ├── reflection.md
-    └── screenshots/
-        ├── script-execution.png
-        └── cron-schedule.png
+    ├── architecture-diagram.png
+    ├── docker-compose.yml
+    ├── automation-script.sh
+    ├── operational-manual.md
+    └── final-reflection.md
 ```
 
 > The repository will continue to grow as additional laboratory activities and course requirements are completed.
