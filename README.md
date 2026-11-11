@@ -50,6 +50,7 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 | **07** | **The Cloud Operations Engineer** | Linux Resource Monitoring, Nginx Deployment, HTTP Requests, Application Logs, and Docker Metrics | ✅ Completed | October 12, 2026 |
 | **08** | **The Cloud Security Engineer** | Security Best Practices, Principle of Least Privilege, UFW Firewall Configuration, and Port Management | ✅ Completed | October 20, 2026 |
 | **09** | **The Cloud Automation Engineer** | Bash Scripting, Automated Backups, File Permissions, and Cron Scheduling | ✅ Completed | October 22, 2026 |
+| **10** | **The Enterprise Cloud Architect** | Ubuntu Server VM Provisioning, VirtualBox Networking, Docker Compose, WordPress and MariaDB Deployment, Persistent Storage, Firewall and SSH Hardening, and Scheduled Database Backups | ✅ Completed | November 2026 |
 
 ### 📘 Laboratory Links
 
@@ -62,12 +63,13 @@ Alongside cloud technologies, I am also interested in **UI/UX Design, Web Develo
 - 📘 [Laboratory 07 – The Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer/)
 - 📘 [Laboratory 08 – The Cloud Security Engineer](./Laboratory-08-Cloud-Security-Engineer/)
 - 📘 [Laboratory 09 – The Cloud Automation Engineer](./Laboratory-09-Cloud-Automation-Engineer/)
+- 📘 [Laboratory 10 – The Enterprise Cloud Architect](./Laboratory-10-Enterprise-Cloud-Architect/)
 
 ---
 
 ## 📁 Repository Structure
 
-The following tree includes the new Laboratory 09 directory and its documentation and screenshot files.
+The following tree shows the laboratory folders and the main documentation and deployment files in this portfolio.
 
 ```text
 CCM101-jnarito/
@@ -149,21 +151,22 @@ CCM101-jnarito/
 │   └── screenshots/
 │
 ├── Laboratory-09-Cloud-Automation-Engineer/
-│    ├── README.md
-│    ├── automation-research.md
-│    ├── backup-script-guide.md
-│    ├── reflection.md
-│    └── screenshots/
-│        ├── script-execution.png
-│        └── cron-schedule.png
+│   ├── README.md
+│   ├── automation-research.md
+│   ├── backup-script-guide.md
+│   ├── reflection.md
+│   └── screenshots/
+│       ├── script-execution.png
+│       └── cron-schedule.png
 │
 ├── Laboratory-10-Enterprise-Cloud-Architect/
-    ├── README.md
-    ├── architecture-diagram.png
-    ├── docker-compose.yml
-    ├── automation-script.sh
-    ├── operational-manual.md
-    └── final-reflection.md
+│   ├── README.md
+│   ├── architecture-diagram.png
+│   ├── compose.yaml
+│   ├── cloudnova-db-backup.sh
+│   ├── operational-manual.md
+│   ├── final-reflection.md
+│   └── screenshots/
 ```
 
 > The repository will continue to grow as additional laboratory activities and course requirements are completed.
@@ -197,6 +200,9 @@ Through the laboratory activities, I have worked with different tools and techno
 - 📦 File Compression and Backup Management
 - 🔐 Linux File Permissions
 - ⏰ Cron Jobs and Task Scheduling
+- 🧰 VirtualBox VM Provisioning and Host-Only Networking
+- 🐧 Ubuntu Server Administration
+- 🔑 SSH Key-Based Authentication and Access Hardening
 
 ### ☁️ Cloud Platforms
 
@@ -222,6 +228,10 @@ Through the laboratory activities, I have worked with different tools and techno
 - 🔗 Application and Database Connectivity
 - 🔐 Environment Variables
 - 🚀 Multi-Container Deployment and Teardown
+- 📰 WordPress Application Deployment
+- 🗄️ MariaDB 11.4 Database Integration
+- 💽 Persistent Docker Volumes
+- 🔗 Docker Bridge Networking
 
 ### 📈 Cloud Operations & Monitoring
 
@@ -244,6 +254,9 @@ Through the laboratory activities, I have worked with different tools and techno
 - 🌐 TCP Port 8080 Management
 - 🔍 Firewall Status and Rule Verification
 - 🔒 Controlling Incoming and Outgoing Traffic
+- 🔐 SSH Hardening: Key-Based Authentication and Disabled Password Login
+- 🧱 Docker `DOCKER-USER` Firewall Rules
+- 🎯 Restricting Application Access to the Host-Only Network
 
 ---
 
@@ -302,6 +315,21 @@ So far, my learning has covered:
 - Applying executable permissions with `chmod`
 - Scheduling automated tasks with cron
 - Verifying backup output and reviewing scheduled jobs
+- Provisioning an Ubuntu Server virtual machine in VirtualBox
+- Configuring NAT and Host-Only network interfaces for server access
+- Deploying WordPress and MariaDB as linked Docker Compose services
+- Using named Docker volumes to preserve application and database data
+- Restricting SSH access through UFW and SSH key-based authentication
+- Applying Docker firewall rules to limit access to the published application port
+- Automating MariaDB database backups with a Bash script and Cron
+
+### Laboratory 10: Enterprise Cloud Architect
+
+For the final laboratory, I worked on **CloudNova**, an enterprise-style cloud deployment running on an Ubuntu Server virtual machine in VirtualBox. The server hosts a multi-container application using Docker Compose, with **WordPress** as the web application and **MariaDB 11.4** as its database.
+
+The deployment uses a private Docker bridge network and named volumes for persistent WordPress and database storage. The VM is reachable from the host computer through a Host-Only network interface, while NAT provides outbound network access. The application is published through the host-only address on port `8080`.
+
+I also applied security and automation configurations, including UFW default-deny incoming rules, restricted SSH key-based access, Docker `DOCKER-USER` firewall rules for the published application port, and a Bash script that creates compressed MariaDB backups. A Cron job is configured to run the database backup automatically on a schedule.
 
 These activities have helped me understand how cloud infrastructure, deployment, operations, security, and automation work together in practical environments.
 
@@ -326,6 +354,10 @@ Through **CCM101 – Cloud Computing**, I aim to:
 - Learn how to create and schedule automated backups
 - Become more comfortable working with technical documentation
 - Build a strong foundation for future cloud-related projects
+- Practice provisioning and managing a Linux server in a virtualized environment
+- Deploy and connect a web application and database using Docker Compose
+- Configure persistent storage, network access, and firewall restrictions
+- Apply SSH hardening and automate database backups with Cron
 
 ---
 
